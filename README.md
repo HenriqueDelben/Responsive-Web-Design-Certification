@@ -18,7 +18,7 @@ It consists of 15 courses, each one with a lab exercice, and 5 projects:
 
 | Course                                                            |       Status       | About | Code                              |
 |-------------------------------------------------------------------|:------------------:|-------|-----------------------------------|
-| Learn HTML By Building a Cat Photo App                            | :heavy_check_mark: |  (Here)[#Learn]     | [CatPhotoApp](./CatPhotoApp.html) |
+| Learn HTML By Building a Cat Photo App                            | :heavy_check_mark: |  [Here](#learn-html-by-building-a-photo-cat-app)     | [CatPhotoApp](./CatPhotoApp.html) |
 | Learn Basic CSS By Building a Cafe Menu                           | :heavy_check_mark: |       | [Cafe Menu](./CafeMenu/)          |
 | Learn CSS Colors By Building a Set of Colored Markers             |         :x:        |       |                                   |
 | Learn HTML Forms By Building a Registration                       |         :x:        |       |                                   |
@@ -36,9 +36,7 @@ It consists of 15 courses, each one with a lab exercice, and 5 projects:
 
 ## Courses
 
-<a name="Learn"></a>
-
-<h3>Learn HTML By Building a Cat Photo App</h3>
+### Learn HTML By Building a Photo Cat App
 
 > Understand the main concepts of HTML: tags, attributes, classes, ID, grouping tags, \<img> tags and more  
        
