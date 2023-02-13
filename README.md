@@ -19,8 +19,8 @@ It consists of 15 courses, each one with a lab exercice, and 5 projects:
 | Course                                                            |       Status       | About | Code                              |
 |-------------------------------------------------------------------|:------------------:|-------|-----------------------------------|
 | Learn HTML By Building a Cat Photo App                            | :heavy_check_mark: |  [Here](#learn-html-by-building-a-photo-cat-app)     | [CatPhotoApp](./CatPhotoApp.html) |
-| Learn Basic CSS By Building a Cafe Menu                           | :heavy_check_mark: |       | [Cafe Menu](./CafeMenu/)          |
-| Learn CSS Colors By Building a Set of Colored Markers             |         :x:        |       |                                   |
+| Learn Basic CSS By Building a Cafe Menu                           | :heavy_check_mark: |    [Here](#learn-basic-css-by-building-a-cafe-menu)   | [Cafe Menu](./Course2-CafeMenu/)          |
+| Learn CSS Colors By Building a Set of Colored Markers             | :heavy_check_mark: |  [Here](#learn-css-colors-by-building-a-set-of-colored-markers)     | [Colored Markers](./Course3-ColorMarkers/)                              |
 | Learn HTML Forms By Building a Registration                       |         :x:        |       |                                   |
 | Learn the CSS Box Model By Building a Rothko Painting             |         :x:        |       |                                   |
 | Learn CSS Flexbox By Building a Photo Gallery                     |         :x:        |       |                                   |
@@ -36,10 +36,29 @@ It consists of 15 courses, each one with a lab exercice, and 5 projects:
 
 ## Courses
 
-### Learn HTML By Building a Photo Cat App
+### Course 1 - Learn HTML By Building a Photo Cat App
 
 > Understand the main concepts of HTML: tags, attributes, classes, ID, grouping tags, \<img> tags and more  
        
 <br>
 
-![Screenshot of the Cat Photo App](/.github/Screenshot%202023-02-09%20at%2023-19-03%20CatPhotoApp.png)
+<img src="./.github/Course1.png" style="width: 50%; height:50%;">
+
+<br>
+
+### Course 2 - Learn Basic CSS By Building a Cafe Menu
+> Tags and good practices: \<hr>, \<section>, \<article>, pseudo-classes involved with links:
+> - :hover
+> - :active
+> - visited
+
+![Course2](./.github/Course2.png)
+
+<br>
+
+### Course 3 - Learn CSS Colors By Building a Set of Colored Markers
+> Understand core concepts involved with color styling in CSS:
+> - linear-gradient(direction, colors)
+> - Color Models: RGB & RGBA, HSL & HSLA, CMYK
+> - box-shadow(offsetX, offsetY, blur, spread, color): syntax, how to use it
+> - opacity
