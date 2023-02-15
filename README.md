@@ -18,10 +18,10 @@ It consists of 15 courses, each one with a lab exercice, and 5 projects:
 
 | Course                                                            |       Status       | About | Code                              |
 |-------------------------------------------------------------------|:------------------:|-------|-----------------------------------|
-| Learn HTML By Building a Cat Photo App                            | :heavy_check_mark: |  [Here](#learn-html-by-building-a-photo-cat-app)     | [CatPhotoApp](./CatPhotoApp.html) |
-| Learn Basic CSS By Building a Cafe Menu                           | :heavy_check_mark: |    [Here](#learn-basic-css-by-building-a-cafe-menu)   | [Cafe Menu](./Course2-CafeMenu/)          |
-| Learn CSS Colors By Building a Set of Colored Markers             | :heavy_check_mark: |  [Here](#learn-css-colors-by-building-a-set-of-colored-markers)     | [Colored Markers](./Course3-ColorMarkers/)                              |
-| Learn HTML Forms By Building a Registration                       |         :x:        |       |                                   |
+| Learn HTML By Building a Cat Photo App                            | :heavy_check_mark: |  [Here](#course-1---learn-html-by-building-a-photo-cat-app)     | [CatPhotoApp](./CatPhotoApp.html) |
+| Learn Basic CSS By Building a Cafe Menu                           | :heavy_check_mark: |    [Here](#course-2---learn-basic-css-by-building-a-cafe-menu)   | [Cafe Menu](./Course2-CafeMenu/)          |
+| Learn CSS Colors By Building a Set of Colored Markers             | :heavy_check_mark: |  [Here](#course-3---learn-css-colors-by-building-a-set-of-colored-markers)     | [Colored Markers](./Course3-ColorMarkers/)                              |
+| Learn HTML Forms By Building a Registration                       | :heavy_check_mark: |[Here](#course-4---learn-html-forms-by-building-a-registration)       | [Registration Form](./Course4-RegistrationForm/)                                   |
 | Learn the CSS Box Model By Building a Rothko Painting             |         :x:        |       |                                   |
 | Learn CSS Flexbox By Building a Photo Gallery                     |         :x:        |       |                                   |
 | Learn Typography By Building a Nutrition Label                    |         :x:        |       |                                   |
@@ -57,8 +57,22 @@ It consists of 15 courses, each one with a lab exercice, and 5 projects:
 <br>
 
 ### Course 3 - Learn CSS Colors By Building a Set of Colored Markers
+
 > Understand core concepts involved with color styling in CSS:
 > - linear-gradient(direction, colors)
 > - Color Models: RGB & RGBA, HSL & HSLA, CMYK
 > - box-shadow(offsetX, offsetY, blur, spread, color): syntax, how to use it
 > - opacity
+
+![Course3 Colored Markers](./.github/Course3.png)
+
+<br>
+
+### Course 4 - Learn HTML Forms By Building a Registration
+> Forms best practices and acessibility
+> - \<input> \<textarea> \<select> \<option> \<button> \<legend> \<fieldset> \<>
+> - Different input types: text, email, password, number, file, radio, checkbox, submit
+> - Attributes: name, value, action, method, minlenght, pattern, min, max, etc, for, cols, rows, type
+> - Different measure units: rem and em, vh and vw
+
+![Course 4 Project](./.github/Course4.png)
